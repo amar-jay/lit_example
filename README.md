@@ -1,4 +1,4 @@
-# boilerplate code to train a mode using lightning
+# boilerplate code to train a model using lightning
 
 # features
 
